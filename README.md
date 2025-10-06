@@ -7,6 +7,9 @@ This project involves a comprehensive analysis of Vendors sales data using Pytho
 
 Here, I use sqlite3 in Python for loading data into database **inventory.db**.
 
+## Objective
+--------
+* 
 **Tasks**
 * Create the database using given '.csv' files.
 *  Analyze the data
