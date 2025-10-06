@@ -8,12 +8,12 @@ This project involves a comprehensive analysis of Vendors sales data using Pytho
 Here, I use sqlite3 in Python for loading data into database **inventory.db**.
 
 **Tasks**
-* 1. Create the database using given '.csv' files.
-* 2. Analyze the data
-* 3. Data Preprocessing
-* 4. Exploratory Data Analysis
-* 5. Creating Visualizations for better understanding
-* 6. Creating new columns like GrossProfit,ProfitMargin,StockTurnover and SalestoPurchaseRatio
-* 7. Now convert the dataframe we created with new columns to '.csv' file
-* 8. Create dashboard based on this '.csv' file
-* 9. Create Report File based on analysis
+* Create the database using given '.csv' files.
+*  Analyze the data
+*  Data Preprocessing
+*  Exploratory Data Analysis
+*  Creating Visualizations for better understanding
+*  Creating new columns like GrossProfit,ProfitMargin,StockTurnover and SalestoPurchaseRatio
+*  Now convert the dataframe we created with new columns to '.csv' file
+*  Create dashboard based on this '.csv' file
+*  Create Report File based on analysis
