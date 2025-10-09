@@ -391,6 +391,9 @@ if __name__=='__main__' :
     logging.info('Completed')
 
 ```
+## PowerBi Dashboard
+<img width="1430" height="803" alt="Screenshot 2025-10-06 160820" src="https://github.com/user-attachments/assets/a3ead882-45bb-47bc-a20e-eadf10d998e3" />
+
 ---------
 ### Description of file added in this repository
 * ingesting.ipynb - In this jupyter notebook, Data load, then convert them into SQL tables
