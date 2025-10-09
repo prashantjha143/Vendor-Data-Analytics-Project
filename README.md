@@ -391,3 +391,16 @@ if __name__=='__main__' :
     logging.info('Completed')
 
 ```
+---------
+### Description of file added in this repository
+* ingesting.ipynb - In this jupyter notebook, Data load, then convert them into SQL tables
+* ingesting.log - It is a log file which stores information everytime when we run the script
+* EDA.ipynb - In this jupyter notebook, we have gained meaningful insights, visualize data with different plots , creating new tables which catries only useful information
+* get_vendor_summary.log - It stores the information of every summary created on data by calling create_vendor_summary function
+* ingesting.py, get_vendor_summary.py - These are nothing but scripts that are used without using notebooks everytime when new data is added to the database
+* Exploratory Data Analysis Insights.docx - This is my report file of the whole project
+---------------
+
+Feel free to connect - [LinkedIn](https://github.com/prashantjha143)
+
+If you have any suggestions related to this project, please let me know.
