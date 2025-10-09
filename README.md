@@ -20,4 +20,4 @@ Here, I use sqlite3 in Python for loading data into database **inventory.db**.
 *  Create dashboard based on this '.csv' file
 *  Create Report File based on analysis
 
-# Dataset -- **In data folder**
+**Dataset** -- **In data folder**
