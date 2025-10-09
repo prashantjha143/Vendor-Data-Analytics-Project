@@ -294,7 +294,7 @@ vendor_sales_summary.to_sql('vendor_sales_summary',conn,if_exists = 'replace',in
 
 pd.read_sql('select*from vendor_sales_summary',conn)
 ```
-Step3 - Creating function for creating final Data(table)
+### Step3 - Creating function for creating final Data(table)
 ```python
 def create_vendor_summary(conn):
     start = time.time()
