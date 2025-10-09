@@ -9,7 +9,6 @@ Here, I use sqlite3 in Python for loading data into database **inventory.db**.
 
 ## Objective
 --------
-* 
 **Tasks**
 * Create the database using given '.csv' files.
 *  Analyze the data
@@ -20,3 +19,5 @@ Here, I use sqlite3 in Python for loading data into database **inventory.db**.
 *  Now convert the dataframe we created with new columns to '.csv' file
 *  Create dashboard based on this '.csv' file
 *  Create Report File based on analysis
+
+# Dataset -- **In data folder**
